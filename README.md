@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/enzovpcosta/enzovpcosta/blob/output/github-contribution-grid-snake.svg" />
+ <img src="https://raw.githubusercontent.com/enzovpcosta/enzovpcosta/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
