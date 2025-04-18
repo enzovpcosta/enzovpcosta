@@ -16,6 +16,11 @@ jobs:
           github_user_name: enzovpcosta
           outputs: |
             dist/github-contribution-grid-snake.svg
+          # 🎨 Customização de cores
+          palette: |
+            - color: "#39FF14"    # cor da cobrinha (verde neon)
+            - color: "#00000000"  # células vazias (totalmente transparentes)
+            - color: "#000000"    # fundo preto
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
