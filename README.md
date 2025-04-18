@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Tecnologias
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img alt="Laravel" title="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
@@ -19,12 +19,6 @@
   <img alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
-
----
-
-<div align="center">
- <img src="https://raw.githubusercontent.com/enzovpcosta/enzovpcosta/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
