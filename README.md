@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo! 👋 Eu sou o Enzo Costa</h1>
 
 <p align="center">
-  <em>💻 Desenvolvedor Full-Stack | 📚 Estudando Vue.js | 🎓 Cursando Engenharia de Software</em>
+  <em>💻 Desenvolvedor Full-Stack | 🎓 Cursando Engenharia de Software</em>
 </p>
 
 ---
